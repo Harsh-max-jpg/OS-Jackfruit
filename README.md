@@ -4,7 +4,7 @@
 
 | Name | SRN |
 |------|-----|
-| J Sanjay Varma | PES1UG24CS194 |
+| Harsha R | PES1UG24AM115 |
 ---
 
 ## 2. Build, Load, and Run Instructions
