@@ -89,7 +89,7 @@ ps aux | grep defunct
 
 ### Screenshot 1 — Multi-container supervision
 Two containers (alpha, beta) running simultaneously under one supervisor process.
-<img width="1920" height="922" alt="1" src="https://github.com/user-attachments/assets/50557ac7-12c9-4d8b-a31c-9e0d53bba163" />
+<img width="1920" height="922" alt="1" src="https://github.com/user-attachments/assets/b0bac170-6bc8-4671-8b88-cb1d7f1ea493" />
 
 
 ### Screenshot 2 — Metadata tracking
