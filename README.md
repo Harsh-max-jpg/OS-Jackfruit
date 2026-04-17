@@ -5,6 +5,7 @@
 | Name | SRN |
 |------|-----|
 | Harsha R | PES1UG24AM115 |
+| Karthik S Prabhu | PES1UG25AM805 |
 ---
 
 ## 2. Build, Load, and Run Instructions
