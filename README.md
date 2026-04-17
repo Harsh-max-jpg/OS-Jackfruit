@@ -89,35 +89,38 @@ ps aux | grep defunct
 
 ### Screenshot 1 — Multi-container supervision
 Two containers (alpha, beta) running simultaneously under one supervisor process.
-<img width="1366" height="893" alt="1_multi_container_supervision" src="https://github.com/user-attachments/assets/beefb7bb-553a-4fa8-855a-889489e07bc0" />
+<img width="1920" height="922" alt="1" src="https://github.com/user-attachments/assets/50557ac7-12c9-4d8b-a31c-9e0d53bba163" />
 
 
 ### Screenshot 2 — Metadata tracking
 `ps` command output showing container ID, PID, state, soft/hard memory limits.
-<img width="1366" height="893" alt="2_metadata_ps" src="https://github.com/user-attachments/assets/0543a718-4774-4c8e-988d-26b3e05a4069" />
+<img width="1920" height="922" alt="2" src="https://github.com/user-attachments/assets/d4766a63-05ae-401e-a031-d2a936607d45" />
 
 
 ### Screenshot 3 — Bounded-buffer logging
 Log file contents captured through the pipe → bounded buffer → logger thread pipeline.
-<img width="1366" height="893" alt="3_logging" src="https://github.com/user-attachments/assets/baf8ef11-0b9e-4391-b342-4f0cf8247310" />
+<img width="1920" height="922" alt="3" src="https://github.com/user-attachments/assets/c51ebe91-57ad-418e-bc0c-e6473f9b3453" />
+
 
 
 ### Screenshot 4 — CLI and IPC
-<img width="1366" height="893" alt="4_cli_ipc" src="https://github.com/user-attachments/assets/d2fa800f-67fb-4fe6-8111-a906e74f5396" />
-
+<img width="1920" height="922" alt="4" src="https://github.com/user-attachments/assets/b7da3404-fe30-413b-9c8e-5ffa7a928f73" />
 
 ### Screenshot 5 — Soft-limit warning
-`<img width="1366" height="893" alt="5_soft_limit" src="https://github.com/user-attachments/assets/9cf7fdeb-dee9-443d-8567-025ea6d844fa" />
+`<img width="1920" height="922" alt="5" src="https://github.com/user-attachments/assets/d676de62-c35e-4123-97ac-f8713c42fe00" />
+
 
 
 ### Screenshot 6 — Hard-limit enforcement
-<img width="1366" height="893" alt="6_hard_limit" src="https://github.com/user-attachments/assets/932e9789-ad22-4008-83f9-b54b894c88cd" />
+<img width="1920" height="922" alt="6" src="https://github.com/user-attachments/assets/f116ccfb-08b3-4c88-9720-ea5bcedccafb" />
+
 
 ### Screenshot 7 — Scheduling experiment
-<img width="1366" height="893" alt="7_scheduling" src="https://github.com/user-attachments/assets/b552f597-abf6-4598-8fe6-ae2ff783590e" />
+<img width="1920" height="922" alt="7" src="https://github.com/user-attachments/assets/e820e3b3-3854-4eac-a22d-79156edebf64" />
+
 
 ### Screenshot 8 — Clean teardown
-<img width="1366" height="893" alt="8_clean_teardown" src="https://github.com/user-attachments/assets/8e1f120f-49f8-4b82-ab80-f3a440a5ada0" />
+<img width="1920" height="922" alt="8" src="https://github.com/user-attachments/assets/1b345ddd-a1ef-4069-9dea-035deccc8c72" />
 
 
 ---
